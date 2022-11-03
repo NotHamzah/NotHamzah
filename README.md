@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NotHamzah
-- 👀 I’m interested in Data and Technology
-- 🌱 I’m currently learning Power BI Visualisations
-- 💞️ I’m looking to collaborate on Automations
+- 👀 I’m interested in Data Visualisation and Analysis
+- 🌱 I’m currently learning Visualisations on Power BI
 - 📫 How to reach me ...
 
 <!---
